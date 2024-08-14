@@ -10,7 +10,7 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .chat-header {
-    background-color: #4a5568;
+    background-color: #690569;
     color: white;
     padding: 1rem;
     font-size: 1.25rem;
@@ -30,13 +30,13 @@ body {
     line-height: 1.5;
 }
 .user-message {
-    background-color: #4299e1;
+    background-color: #690569;
     color: white;
     margin-left: auto;
     border-bottom-right-radius: 0;
 }
 .bot-message {
-    background-color: #e2e8f0;
+    background-color: #ebc7eb;
     color: #2d3748;
     margin-right: auto;
     border-bottom-left-radius: 0;
@@ -50,9 +50,9 @@ body {
     box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
 }
 #send-button {
-    background-color: #4299e1;
+    background-color: #690569;
     transition: background-color 0.3s ease;
 }
 #send-button:hover {
-    background-color: #3182ce;
+    background-color: #c564c5;
 }
